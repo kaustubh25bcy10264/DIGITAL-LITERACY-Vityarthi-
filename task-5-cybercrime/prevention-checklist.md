@@ -1,18 +1,26 @@
-Stay Safe Online Checklist (For College Students in India):
+# Stay Safe Online Checklist (For College Students in India):
 
-✅ Prevention Tips
-Verify links before clicking – hover over URLs in emails/messages to check authenticity.
+## ✅ Prevention Tips:
+### 1. Verify links before clicking – 
+hover over URLs in emails/messages to check authenticity.
 
-Use strong, unique passwords – avoid reusing the same password across platforms.
+### 2. Use strong, unique passwords – 
+Avoid reusing the same password across platforms.
 
+### 3. Enable two‑factor authentication (2FA)- 
 Enable two‑factor authentication (2FA) on email, banking, and social media accounts.
 
-Avoid public Wi‑Fi for financial transactions – use mobile data or a secure VPN.
+### 4. Avoid public Wi‑Fi for financial transactions – 
+Use mobile data or a secure VPN.
 
-Check UPI requests carefully – never approve payment requests you did not initiate.
+### 5. Check UPI requests carefully –
+Never approve payment requests you did not initiate.
 
-Limit personal information shared online – avoid posting addresses, phone numbers, or financial details.
+### 6. Limit personal information shared online – 
+Avoid posting addresses, phone numbers, or financial details.
 
-Update software regularly – keep your phone, laptop, and apps patched against vulnerabilities.
+### 7. Update software regularly – 
+Keep your phone, laptop, and apps patched against vulnerabilities.
 
-Report suspicious activity immediately – use the National Cyber Crime Portal (cybercrime.gov.in) or call Helpline 1930.
+### 8. Report suspicious activity immediately – 
+Use the National Cyber Crime Portal (cybercrime.gov.in) or call Helpline 1930.
