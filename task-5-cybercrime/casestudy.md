@@ -1,4 +1,4 @@
-Case Study: The Mechanics of Phishing
+# Case Study: The Mechanics of Phishing
 
 Defining the Crime Phishing isn’t really about "hacking" in the traditional sense; it’s more about social engineering. Attackers basically impersonate a trusted organization—like a bank or a university department—to trick people into giving up sensitive info like passwords or bank details. It relies entirely on deception rather than breaking through a firewall.
 
